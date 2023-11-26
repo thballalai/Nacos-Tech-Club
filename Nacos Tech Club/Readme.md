@@ -2,6 +2,10 @@
 <h1 align="center"> PROJETO DE LANDING PAGE </h1>
 <p>Este projeto foi feito com o intuito de desenvolver habilidades de HTML e CSS, já simulando um ambiente profissional através do uso de um projeto gratuito encontrado no Figma foi uma landing page buscando ser o mais fiel possível com o ux design.</p>
 
+<h2 align="center">Links</h2>
+<a href="https://front-end-three-amber.vercel.app/">Visualização do projeto</a><br>
+<p><a href="https://www.figma.com/community/file/1308548893620505653">UX Design no FIGMA</a>
+
 <h2 align="center">Funcionalidades</h2>
 <p>Este projeto consiste de uma <strong>Landing Page</strong> com visualização tanto para desktop quanto para mobile contendo os seguintes elementos:</p>
 <ul>
