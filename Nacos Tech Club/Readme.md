@@ -29,15 +29,11 @@
 <ul>
     <li>Header</li>
     <ul>
-        <li>Código HTML para definição dos elementos.</li>
         <li>Estilização do conteúdo para mobile.</li>
-        <li>Estilização do conteúdo para desktop.</li>
     </ul>
     <li>Introdução</li>
     <ul>
-        <li>Código HTML para definição dos elementos.</li>
         <li>Estilização do conteúdo para mobile.</li>
-        <li>Estilização do conteúdo para desktop.</li>
     </ul>
         <li>Postagens Recentes</li>
     <ul>
