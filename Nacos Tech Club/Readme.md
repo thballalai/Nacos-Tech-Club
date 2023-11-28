@@ -26,37 +26,12 @@
 
 </ul>
 <h2 align="center">Implementações Futuras</h2>
-<ul>
-    <li>Header</li>
-    <ul>
-        <li>Estilização do conteúdo para mobile.</li>
-    </ul>
-    <li>Introdução</li>
-    <ul>
-        <li>Estilização do conteúdo para mobile.</li>
-    </ul>
-        <li>Postagens Recentes</li>
-    <ul>
-        <li>Código HTML para definição dos elementos.</li>
-        <li>Estilização do conteúdo para mobile.</li>
-        <li>Estilização do conteúdo para desktop.</li>
-    </ul>
-    <li>Trabalhos em destaque</li>
-    <ul>
-        <li>Código HTML para definição dos elementos.</li>
-        <li>Estilização do conteúdo para mobile.</li>
-        <li>Estilização do conteúdo para desktop.</li>
-    </ul>
-    <li>Rodapé</li>
-    <ul>
-        <li>Código HTML para definição dos elementos.</li>
-        <li>Estilização do conteúdo para mobile.</li>
-        <li>Estilização do conteúdo para desktop.</li>
-    </ul>
-</ul>
+
+<p align="center">Criação da visualização para Mobile</p>
+
 <h2 align="center">Colaboradores</h2>
 <ul style="list-style-type:none">
     <li><strong>Thiago Ballalai:</strong> Desenvolvedor solo do projeto.</li>
 </ul>
 <h2 align="center">Status do Projeto</h2>
-<p align="center">Projeto ainda em desevolvimento</p>
+<p align="center">Versão para desktop concluído</p>
